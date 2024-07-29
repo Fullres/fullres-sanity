@@ -1,0 +1,24 @@
+{
+  "name": "fullres-sanity",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "13.1.6",
+    "@portabletext/react": "^2.0.1",
+    "@sanity/client": "^4.0.1",
+    "@sanity/image-url": "^1.0.2",
+    "eslint": "8.33.0",
+    "eslint-config-next": "13.1.6",
+    "fullres-nextjs": "^1.0.0",
+    "groq": "^3.2.6",
+    "next": "^14.2.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
