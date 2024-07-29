@@ -16,7 +16,7 @@ const Layout = ({ children }) => (
         <nav>
           <ul>
             <li><a href="/">Home</a></li>
-            <li><a href="#">NPM Package</a></li>
+            <li><a href="https://www.npmjs.com/package/fullres-nextjs">NPM Package</a></li>
             <li><a href="https://docs.fullres.com">fullres Docs</a></li>
           </ul>
         </nav>
