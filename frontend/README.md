@@ -13,7 +13,7 @@ NEXT_PUBLIC_FULLRES_SITEKEY=your-fullres-site-key
 NEXT_PUBLIC_SANITY_PROJECT_ID=your-sanity-project-id
 ```
 
-Replace `your-fullres-site-key` and `your-sanity-project-id` with your actual FullRes site key and Sanity project ID, respectively.
+Replace `your-fullres-site-key` and `your-sanity-project-id` with your actual fullres site key and Sanity project ID, respectively.
 
 ### Running the Development Server
 

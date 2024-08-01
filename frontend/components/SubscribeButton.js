@@ -1,8 +1,8 @@
-import { trackEvent } from 'fullres-nextjs';
+import { fullres } from 'fullres-nextjs';
 
 const SubscribeButton = ({ label }) => {
   const handleClick = () => {
-    trackEvent('subscribe_button_click', { position: 'Inline Post' });
+    fullres.events.push({ key: 'subscribe_button_click', position: 'Inline Post 3' });
   };
 
   return <button onClick={handleClick}>{label}</button>;
